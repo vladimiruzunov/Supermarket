@@ -1,0 +1,12 @@
+C:\Users\Vladimir\source\repos\Supermarket1\Supermarket.Models\bin\Debug\net5.0\Supermarket.Models.deps.json
+C:\Users\Vladimir\source\repos\Supermarket1\Supermarket.Models\bin\Debug\net5.0\Supermarket.Models.dll
+C:\Users\Vladimir\source\repos\Supermarket1\Supermarket.Models\bin\Debug\net5.0\ref\Supermarket.Models.dll
+C:\Users\Vladimir\source\repos\Supermarket1\Supermarket.Models\bin\Debug\net5.0\Supermarket.Models.pdb
+C:\Users\Vladimir\source\repos\Supermarket1\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladimir\source\repos\Supermarket1\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.AssemblyInfoInputs.cache
+C:\Users\Vladimir\source\repos\Supermarket1\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.AssemblyInfo.cs
+C:\Users\Vladimir\source\repos\Supermarket1\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\Supermarket1\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.dll
+C:\Users\Vladimir\source\repos\Supermarket1\Supermarket.Models\obj\Debug\net5.0\ref\Supermarket.Models.dll
+C:\Users\Vladimir\source\repos\Supermarket1\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.pdb
+C:\Users\Vladimir\source\repos\Supermarket1\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.csproj.AssemblyReference.cache

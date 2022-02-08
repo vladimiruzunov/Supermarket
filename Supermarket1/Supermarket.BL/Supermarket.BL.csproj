@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Supermarket.DL\Supermarket.DL.csproj" />
+    <ProjectReference Include="..\Supermarket.Models\Supermarket.Models.csproj" />
+  </ItemGroup>
+
+</Project>

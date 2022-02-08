@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Supermarket.DL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Supermarket.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Supermarket.DL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Supermarket.DL.dll": {}
+        }
+      },
+      "Supermarket.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Supermarket.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Supermarket.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Supermarket.DL/1.0.0": {
+      "type": "project",
+      "path": "../Supermarket.DL/Supermarket.DL.csproj",
+      "msbuildProject": "../Supermarket.DL/Supermarket.DL.csproj"
+    },
+    "Supermarket.Models/1.0.0": {
+      "type": "project",
+      "path": "../Supermarket.Models/Supermarket.Models.csproj",
+      "msbuildProject": "../Supermarket.Models/Supermarket.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Supermarket.DL >= 1.0.0",
+      "Supermarket.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Vladimir\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Vladimir\\source\\repos\\Supermarket1\\Supermarket.BL\\Supermarket.BL.csproj",
+      "projectName": "Supermarket.BL",
+      "projectPath": "C:\\Users\\Vladimir\\source\\repos\\Supermarket1\\Supermarket.BL\\Supermarket.BL.csproj",
+      "packagesPath": "C:\\Users\\Vladimir\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vladimir\\source\\repos\\Supermarket1\\Supermarket.BL\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Vladimir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Vladimir\\source\\repos\\Supermarket1\\Supermarket.DL\\Supermarket.DL.csproj": {
+              "projectPath": "C:\\Users\\Vladimir\\source\\repos\\Supermarket1\\Supermarket.DL\\Supermarket.DL.csproj"
+            },
+            "C:\\Users\\Vladimir\\source\\repos\\Supermarket1\\Supermarket.Models\\Supermarket.Models.csproj": {
+              "projectPath": "C:\\Users\\Vladimir\\source\\repos\\Supermarket1\\Supermarket.Models\\Supermarket.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ffb7310c-f123-48fa-b2ce-146da0a5a7c8": {
+      "ProjectGuid": "ffb7310c-f123-48fa-b2ce-146da0a5a7c8",
+      "DisplayName": "Supermarket1",
+      "ColorIndex": 0
+    },
+    "281fce00-8de3-4742-ba4b-47b87da95612": {
+      "ProjectGuid": "281fce00-8de3-4742-ba4b-47b87da95612",
+      "DisplayName": "Supermarket.BL",
+      "ColorIndex": 1
+    },
+    "b80d9180-1f2b-491a-8315-2cc222232be7": {
+      "ProjectGuid": "b80d9180-1f2b-491a-8315-2cc222232be7",
+      "DisplayName": "Supermarket.BL",
+      "ColorIndex": 2
+    },
+    "8cf1e1ca-0d52-4bab-a7aa-1947f5d2b423": {
+      "ProjectGuid": "8cf1e1ca-0d52-4bab-a7aa-1947f5d2b423",
+      "DisplayName": "Supermarket.DL",
+      "ColorIndex": 3
+    },
+    "95697f5f-769d-4a37-9415-6eeda5478ab2": {
+      "ProjectGuid": "95697f5f-769d-4a37-9415-6eeda5478ab2",
+      "DisplayName": "Supermarket.Models",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

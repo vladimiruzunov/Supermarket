@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Supermarket.DL/1.0.0": {
+        "dependencies": {
+          "Supermarket.Models": "1.0.0"
+        },
+        "runtime": {
+          "Supermarket.DL.dll": {}
+        }
+      },
+      "Supermarket.Models/1.0.0": {
+        "runtime": {
+          "Supermarket.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Supermarket.DL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Supermarket.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
